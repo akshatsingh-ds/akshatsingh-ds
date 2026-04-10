@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## Hi there 👋<br><br>I'm **Akshat Singh**, a **Data Science enthusiast** passionate about solving real-world problems using data and efficient algorithms. I enjoy building scalable solutions and continuously improving my problem-solving skills.<br><br>---<br><br>### 🔭 I’m currently working on<br><br>* A **Web3-based corporate workflow management system**<br>* Strengthening my **Data Structures & Algorithms (DSA)** skills<br>* Building **data-driven projects** for my portfolio<br><br>### 🌱 I’m currently learning<br><br>* Advanced **Python for Data Analysis**<br>* **SQL (Joins, Optimization, Query Design)**<br>* **Statistics for Data Science**<br><br>### 👯 I’m looking to collaborate on<br><br>* Data analysis projects<br>* Open-source **Python/SQL-based applications**<br>* Beginner-friendly data science projects<br><br>### 🤔 I’m looking for help with<br><br>* Real-world datasets and case studies<br>* Improving project scalability and performance<br><br>### 💬 Ask me about<br><br>* Python<br>* SQL (especially JOINs 😉)<br>* DSA / coding interview prep<br>* Building beginner data science projects<br><br>### 📫 How to reach me<br><br>* GitHub: [akshatsingh-ds](https://github.com/akshatsingh-ds)<br>* (Add LinkedIn here if you want)<br><br>---<br><br>### 🧠 Skills & Keywords (for recruiters)<br><br>`Python` `SQL` `Data Analysis` `Data Cleaning` `Data Visualization`<br>`Pandas` `NumPy` `Problem Solving` `DSA` `Algorithms`<br>`Analytical Thinking` `Statistics` `Workflow Optimization`<br><br>---<br><br>### ⚡ Fun fact<br><br>I enjoy breaking down complex problems into simple, logical solutions 🚀<br>
 
-<!--
-**akshatsingh-ds/akshatsingh-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AkshatSingh06) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akshat Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshat.9.b.9624@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akshatsingh-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akshatsingh-ds&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsingh-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=akshatsingh-ds&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
